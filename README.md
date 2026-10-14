@@ -1,1 +1,3 @@
 # FluidBrushCG
+
+read me pls
