@@ -17,5 +17,3 @@ Run the repository integrity tests with Python 3.12 or newer:
 ```powershell
 python -m unittest discover --start-directory tests --verbose
 ```
-
-GitHub Actions runs these checks for pull requests and pushes to `main`.
